@@ -1,10 +1,10 @@
 # CarPark Privacy Policy
 
-Last updated: 2026-05-28
+Last updated: 2026-06-19
 
-This Privacy Policy explains how CarPark collects, uses, stores, and protects information when you use the CarPark iPhone application and its connected backend services.
+This Privacy Policy explains how CarPark collects, uses, stores, and protects information when you use the CarPark mobile applications and connected backend services.
 
-CarPark is an iPhone-first vehicle catalog and lead request application for car dealerships.
+CarPark is a mobile vehicle catalog and lead request application for car dealerships.
 
 ## 1. Information We Collect
 
@@ -100,7 +100,7 @@ We do not knowingly collect personal information from children.
 
 ## 9. No Payments In The Current Version
 
-The current CarPark application does not process customer payments inside the app.
+The current CarPark applications do not process customer payments inside the app.
 
 If payments, deposits, subscriptions, or paid listing placement are added in the future, this Privacy Policy will be updated before those features are released.
 
@@ -120,5 +120,6 @@ When we make changes, we will update the "Last updated" date at the top of this 
 
 For privacy-related questions or requests, contact:
 
-Ivan Revchuk  
-Email: ivanrevchukpython@gmail.com
+Ivan Revchuk
+
+Email: carpark0026@gmail.com
