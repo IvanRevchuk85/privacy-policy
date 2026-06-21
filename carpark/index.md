@@ -1,6 +1,6 @@
 # CarPark Privacy Policy
 
-Last updated: 2026-06-19
+Last updated: 2026-06-21
 
 This Privacy Policy explains how CarPark collects, uses, stores, and protects information when you use the CarPark mobile applications and connected backend services.
 
@@ -122,4 +122,4 @@ For privacy-related questions or requests, contact:
 
 Ivan Revchuk
 
-Email: carpark0026@gmail.com
+Email: ivanrevchukpython@gmail.com
